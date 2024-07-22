@@ -1,2 +1,2 @@
-# solitonenergy2.github.io
-Soliton Energy
+# solitonenergy.github.io
+Welcome to Soliton Energy home page!
